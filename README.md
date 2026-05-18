@@ -1,4 +1,4 @@
-# Resume Screening Agent
+# AI Resume Screening Agent
 ## 프로젝트 소개
 
 본 프로젝트는 개인적으로 수행한 생성형 AI 기반 이력서 분석 및 면접 보조 미니 프로젝트입니다.
