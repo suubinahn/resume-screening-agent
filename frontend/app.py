@@ -63,7 +63,7 @@ if st.button("분석 시작"):
             for item in result["weaknesses"]:
                 st.write("- ", item)
 
-            st.subheader("예상 면접 질문")
+            st.subheader("이력서 기반 면접 질문")
             for q in result["questions"]:
                 st.write("- ", q)
 
