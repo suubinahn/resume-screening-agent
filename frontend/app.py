@@ -28,7 +28,7 @@ if st.button("분석 시작"):
             }
 
             response = requests.post(
-                "http://127.0.0.1:8001/analyze-pdf",
+                "https://resume-screening-agent-7d9z.onrender.com/analyze-pdf",
                 files=files,
                 data=data
             )
