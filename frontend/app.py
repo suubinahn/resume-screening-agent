@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("AI 이력서 분석 에이전트")
+st.title("AI Resume Screening Agent")
 
 jd = st.text_area("채용 공고 입력")
 
