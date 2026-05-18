@@ -125,10 +125,10 @@ streamlit run app.py
 ## 배포 링크
 
 ### Frontend
-(배포 링크 추가)
+https://resume-screening-agent-kwncyukmstsnbf7eygtx9w.streamlit.app/
 
 ### Backend API
-(배포 링크 추가)
+https://resume-screening-agent-7d9z.onrender.com
 
 ---
 
